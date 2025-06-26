@@ -1,0 +1,14 @@
+path: /media/a519/94baa2c4-9dac-46c7-8147-057c5b996bc81/zzh/yolov9/dataset
+train: /media/a519/94baa2c4-9dac-46c7-8147-057c5b996bc81/zzh/yolov9/dataset/train/images
+val: /media/a519/94baa2c4-9dac-46c7-8147-057c5b996bc81/zzh/yolov9/dataset/valid/images
+test: /media/a519/94baa2c4-9dac-46c7-8147-057c5b996bc81/zzh/yolov9/dataset/test/images
+
+nc: 2
+names: ['Bolts', 'NUTS']
+
+roboflow:
+  workspace: kletech-university
+  project: nutsandbolts
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kletech-university/nutsandbolts/dataset/2

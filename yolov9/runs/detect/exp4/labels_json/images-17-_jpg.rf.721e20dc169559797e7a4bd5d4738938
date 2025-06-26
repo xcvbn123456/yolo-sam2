@@ -1,0 +1,113 @@
+{
+    "image_path": "/media/a519/94baa2c4-9dac-46c7-8147-057c5b996bc81/zzh/yolov9/detect holes 1.v2i.yolov9/test/images/images-17-_jpg.rf.721e20dc169559797e7a4bd5d4738938.jpg",
+    "image_size": {
+        "width": 640,
+        "height": 640
+    },
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "holes",
+            "bbox": {
+                "xmin": 367,
+                "ymin": 291,
+                "xmax": 499,
+                "ymax": 445,
+                "width": 132,
+                "height": 154
+            },
+            "confidence": 0.44052252173423767
+        },
+        {
+            "class_id": 0,
+            "class_name": "holes",
+            "bbox": {
+                "xmin": 492,
+                "ymin": 224,
+                "xmax": 524,
+                "ymax": 263,
+                "width": 32,
+                "height": 39
+            },
+            "confidence": 0.5717307925224304
+        },
+        {
+            "class_id": 0,
+            "class_name": "holes",
+            "bbox": {
+                "xmin": 492,
+                "ymin": 428,
+                "xmax": 520,
+                "ymax": 464,
+                "width": 28,
+                "height": 36
+            },
+            "confidence": 0.6337939500808716
+        },
+        {
+            "class_id": 0,
+            "class_name": "holes",
+            "bbox": {
+                "xmin": 349,
+                "ymin": 308,
+                "xmax": 380,
+                "ymax": 346,
+                "width": 31,
+                "height": 38
+            },
+            "confidence": 0.6675323247909546
+        },
+        {
+            "class_id": 0,
+            "class_name": "holes",
+            "bbox": {
+                "xmin": 349,
+                "ymin": 507,
+                "xmax": 381,
+                "ymax": 546,
+                "width": 32,
+                "height": 39
+            },
+            "confidence": 0.7000784277915955
+        },
+        {
+            "class_id": 0,
+            "class_name": "holes",
+            "bbox": {
+                "xmin": 62,
+                "ymin": 541,
+                "xmax": 110,
+                "ymax": 599,
+                "width": 48,
+                "height": 58
+            },
+            "confidence": 0.7166173458099365
+        },
+        {
+            "class_id": 0,
+            "class_name": "holes",
+            "bbox": {
+                "xmin": 61,
+                "ymin": 339,
+                "xmax": 110,
+                "ymax": 401,
+                "width": 49,
+                "height": 62
+            },
+            "confidence": 0.7522865533828735
+        },
+        {
+            "class_id": 0,
+            "class_name": "holes",
+            "bbox": {
+                "xmin": 561,
+                "ymin": 52,
+                "xmax": 610,
+                "ymax": 113,
+                "width": 49,
+                "height": 61
+            },
+            "confidence": 0.8193523287773132
+        }
+    ]
+}

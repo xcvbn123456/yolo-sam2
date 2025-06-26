@@ -1,0 +1,14 @@
+path: /media/a519/94baa2c4-9dac-46c7-8147-057c5b996bc81/zzh/yolov9/data1
+train: /media/a519/94baa2c4-9dac-46c7-8147-057c5b996bc81/zzh/yolov9/data1/train/images
+val: /media/a519/94baa2c4-9dac-46c7-8147-057c5b996bc81/zzh/yolov9/data1/valid/images
+test: /media/a519/94baa2c4-9dac-46c7-8147-057c5b996bc81/zzh/yolov9/data1/test/images
+
+nc: 2
+names: ['disinfected nut', 'infected nut']
+
+roboflow:
+  workspace: debris-beach-plastic-detection
+  project: nuts-classification-ofbz5
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/debris-beach-plastic-detection/nuts-classification-ofbz5/dataset/2

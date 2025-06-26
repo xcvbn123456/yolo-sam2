@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>sam2_ros</name>
+  <version>0.0.1</version>
+  <description>SAM2 Segmentation integrated with ROS</description>
+ 
+  <maintainer email="baiwenbin6@163.com">Bwb</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <depend>rospy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>cv_bridge</depend>
+
+  <export>
+  </export>
+</package>

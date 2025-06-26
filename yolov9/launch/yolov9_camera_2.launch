@@ -1,0 +1,13 @@
+<launch>
+  <node pkg="yolov9_ros" type="yolo9_node.sh" name="yolov9_camera1_node" output="screen">
+    <param name="image_topic" value="/camera1/color/image_raw"/>
+    <param name="image_result_topic" value="/yolov9/camera1/image_result"/>
+    <param name="bbox_topic" value="/yolov9/camera1/bboxes"/>
+  </node>
+
+  <node pkg="yolov9_ros" type="yolov9_node.sh" name="yolov9_camera2_node" output="screen">
+    <param name="image_topic" value="/camera2/color/image_raw"/>
+    <param name="image_result_topic" value="/yolov9/camera2/image_result"/>
+    <param name="bbox_topic" value="/yolov9/camera2/bboxes"/>
+  </node>
+</launch>

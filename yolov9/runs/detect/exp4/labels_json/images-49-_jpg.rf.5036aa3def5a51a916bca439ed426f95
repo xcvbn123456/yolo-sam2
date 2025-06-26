@@ -1,0 +1,48 @@
+{
+    "image_path": "/media/a519/94baa2c4-9dac-46c7-8147-057c5b996bc81/zzh/yolov9/detect holes 1.v2i.yolov9/test/images/images-49-_jpg.rf.5036aa3def5a51a916bca439ed426f95.jpg",
+    "image_size": {
+        "width": 640,
+        "height": 640
+    },
+    "detections": [
+        {
+            "class_id": 0,
+            "class_name": "holes",
+            "bbox": {
+                "xmin": 308,
+                "ymin": 188,
+                "xmax": 354,
+                "ymax": 254,
+                "width": 46,
+                "height": 66
+            },
+            "confidence": 0.2605782151222229
+        },
+        {
+            "class_id": 0,
+            "class_name": "holes",
+            "bbox": {
+                "xmin": 393,
+                "ymin": 264,
+                "xmax": 430,
+                "ymax": 339,
+                "width": 37,
+                "height": 75
+            },
+            "confidence": 0.733055830001831
+        },
+        {
+            "class_id": 0,
+            "class_name": "holes",
+            "bbox": {
+                "xmin": 225,
+                "ymin": 260,
+                "xmax": 264,
+                "ymax": 331,
+                "width": 39,
+                "height": 71
+            },
+            "confidence": 0.7525240778923035
+        }
+    ]
+}

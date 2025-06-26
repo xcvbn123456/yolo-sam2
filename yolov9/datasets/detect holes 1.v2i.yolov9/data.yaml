@@ -1,0 +1,13 @@
+train: /media/a519/94baa2c4-9dac-46c7-8147-057c5b996bc81/zzh/yolov9/detect holes 1.v2i.yolov9/train/images
+val: /media/a519/94baa2c4-9dac-46c7-8147-057c5b996bc81/zzh/yolov9/detect holes 1.v2i.yolov9/valid/images
+test: /media/a519/94baa2c4-9dac-46c7-8147-057c5b996bc81/zzh/yolov9/detect holes 1.v2i.yolov9/test/images
+
+nc: 1
+names: ['holes']
+
+roboflow:
+  workspace: vasanthkumar
+  project: detect-holes-1
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/vasanthkumar/detect-holes-1/dataset/2
